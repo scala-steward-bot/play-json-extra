@@ -38,7 +38,7 @@ object User {
 }
 ```
 
-### latest stable version for play-json 2.8
+### latest stable version
 
 ```scala
 libraryDependencies += "com.github.xuwei-k" %% "play-json-extra" % "0.10.0"
@@ -49,5 +49,3 @@ for scala-js
 ```scala
 libraryDependencies += "com.github.xuwei-k" %%% "play-json-extra" % "0.10.0"
 ```
-
-- [API Documentation](https://oss.sonatype.org/service/local/repositories/releases/archive/com/github/xuwei-k/play-json-extra_2.12/0.10.0/play-json-extra_2.12-0.10.0-javadoc.jar/!/index.html)
