@@ -24,7 +24,7 @@ object User {
 }
 ```
 
-[Play provides Json macros](https://www.playframework.com/documentation/2.8.x/ScalaJsonAutomated). Yes it is useful, but I want to **specify Json keys explicitly** sometime like [argonaut casecodecN](https://github.com/argonaut-io/argonaut/blob/v6.2/argonaut/jvm/src/test/scala/argonaut/example/JsonExample.scala#L25)
+[Play provides Json macros](https://www.playframework.com/documentation/3.0.x/ScalaJsonAutomated). Yes it is useful, but I want to **specify Json keys explicitly** sometime like [argonaut casecodecN](https://github.com/argonaut-io/argonaut/blob/v6.3.12/argonaut/shared/src/test/scala/argonaut/example/JsonExample.scala#L27-L28)
 
 ```scala
 import play.api.libs.json._
