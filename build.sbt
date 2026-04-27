@@ -186,7 +186,7 @@ lazy val playJsonExtra = projectMatrix
   .nativePlatform(
     scalaVersions,
     Def.settings(
-      libraryDependencies += "org.playframework" %%% "play-json" % "3.1.0-M1",
+      libraryDependencies += "org.playframework" %%% "play-json" % "3.1.0-M10",
     )
   )
   .jsPlatform(
